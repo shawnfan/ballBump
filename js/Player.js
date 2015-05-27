@@ -15,7 +15,7 @@ Player = function(){
 	var size = 1;//# of dots in 1 player
 	var radius = 1;
 	var radiusPropInc = 0.02;
-	var cameraDisZ = 50;
+	var cameraDisZ = 30;
 
 //TODO:
 	init();
